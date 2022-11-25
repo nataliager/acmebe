@@ -1,0 +1,7 @@
+from .productoSerializer import ProductoSerializer
+from .productoxsedeSerializer import ProductoxsedeSerializer
+from .productoxsedeSerializer import ProductoxsedeSerializerRepresentation
+from .proveedorSerializer import ProveedorSerializer
+from .sedeSerializer import SedeSerializer
+from .userSerializer import UserSerializer,UserUpdateSerializer
+from .userSerializer import UserSerializerRepresentation
